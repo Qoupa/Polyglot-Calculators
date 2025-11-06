@@ -47,7 +47,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is  10!
+Current Unique Contributor Amount is  9!
 
 | Calculator Name | Programming Language | Contributors |
 | :--- | :--- | :--- |
@@ -66,3 +66,4 @@ Current Unique Contributor Amount is  10!
 | `AreaCalculator-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-Daku3011` | Python | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-CrossGo14` | Python | [@CrossGo14](https://github.com/CrossGo14) / [@B3rou](https://github.com/B3rou) |
+| `BMICalculator-C-Daku3011` | C | [@Daku3011](https://github.com/Daku3011) |
