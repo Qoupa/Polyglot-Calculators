@@ -1,0 +1,1 @@
+/Users/slayt/RustroverProjects/Awesome-Calculators/Daily\ Life/Temperature\ Converters/TemperatureConverter-Rust-Slaytt/Main/target/debug/Main: /Users/slayt/RustroverProjects/Awesome-Calculators/Daily\ Life/Temperature\ Converters/TemperatureConverter-Rust-Slaytt/Main/src/main.rs
