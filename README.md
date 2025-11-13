@@ -47,7 +47,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is  17!
+Current Unique Contributor Amount is  18!
 
 
 | Calculator Name | Programming Language | Contributors |
@@ -69,6 +69,7 @@ Current Unique Contributor Amount is  17!
 | `TemperatureConverter-C-Daku3011` | C | [@Daku3011](https://github.com/Daku3011) |
 | `TemperatureConverter-Cpp-Voyger2` | C++ | [@Voyger2](https://github.com/Voyger2) |
 | `TemperatureConverter-JavaScript-Bkeefe901`| JavaScript | [@Bkeefe01](https://github.com/Bkeefe01) |
+| `TemperatureConverter-Rust-Slaytt` | Rust | [@Slaytt](https://github.com/Slaytt) / [@B3rou](https://github.com/B3rou) |
 | `AreaCalculator-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
 | `AreaCalculator-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss) |
 | `OhmsLawCalculator-Python-Daku3011` | Python | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
