@@ -48,7 +48,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **43**!
+Current Unique Contributor Amount is **45**!
 
 
 | Calculator Name | Programming Language | Contributors |
@@ -64,6 +64,7 @@ Current Unique Contributor Amount is **43**!
 | `TemperatureConverter-JavaScript-Bkeefe901`| JavaScript | [@Bkeefe01](https://github.com/Bkeefe01) |
 | `TemperatureConverter-Rust-Slaytt` | Rust | [@Slaytt](https://github.com/Slaytt) |
 | `TemperatureConverter-Python-SimpleChap`| Python | [@SimpleChap](https://github.com/SimpleChap) |
+| `TemperatureConverter-Java-Electric-Centipede`| Java | [@Electric-Centipede](https://github.com/Electric-Centipede) |
 | `AreaCalculator-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `AreaCalculator-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss) |
 | `AreaCalculator-C++-JordanDia` | C++ | [@JordanDia](https://github.com/JordanDia) |
@@ -79,6 +80,7 @@ Current Unique Contributor Amount is **43**!
 | --- **🌿 Health** --- | | |
 | `BMICalculator-C-Daku3011` | C | [@Daku3011](https://github.com/Daku3011) |
 | `BMICalculator-Cpp-avijitj14` | C++ | [@avijitj14](https://github.com/avijitj14) |
+| `BMICalculator-Java-AleksandraSieg` | Java | [@AleksandraSieg](https://github.com/AleksandraSieg) |
 | | | |
 | | | |
 | | | |
