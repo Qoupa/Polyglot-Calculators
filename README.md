@@ -90,6 +90,7 @@ Current Unique Contributor Amount is **45**!
 | `DurationConverter-Java-rohithgowda18` | Java | [@rohithgowda18](https://github.com/rohithgowda18) |
 | `DurationConverter-C++-abdllahmaher` | C++ | [@abdllahmaher](https://github.com/abdllahmaher) |
 | `DurationConverter-Python-JuanManuel` | Python | [@MAXXIMUX12](https://github.com/MAXXIMUX12) |
+| `DurationConverter-Python-Sockney89` | Python | [@Sockney89](https://github.com/Sockney89)|
 | `DataStorageConverter-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `DataStorageConverter-Python-jaideepkathiresan` | Python | [@jaideepkathiresan](https://github.com/jaideepkathiresan) |
 | `DataStorageConverter-Java-umer901` | Java | [@umer901](https://github.com/umer901) |
