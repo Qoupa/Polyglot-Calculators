@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 40px;
+    background: linear-gradient(120deg, #c3ecb2, #a0c4ff);
+    color: #222;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+#display {
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    text-align: right;
+    margin-bottom: 10px;
+    border: 2px solid #333;
+    border-radius: 5px;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 50px);
+    gap: 5px;
+    justify-content: center;
+}
+
+button {
+    height: 40px;
+    font-size: 18px;
+    background-color: white;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ddd;
+}
