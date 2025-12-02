@@ -6,6 +6,7 @@ Thumbs.db
 desktop.ini
 *.log
 .vscode/
+/.vs
 .idea/
 *.swp
 *.swo
@@ -121,4 +122,3 @@ debug.log
 .sass-cache/
 *.css.map
 *.js.map
-/.vs
